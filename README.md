@@ -21,7 +21,7 @@
  
 <div align="center">
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrenyQT&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Byte480&theme=2077&utcOffset=8)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrenyQT&theme=2060)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=M-Byte480&theme=2077&utcOffset=8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrenyQT&theme=2077)
 
