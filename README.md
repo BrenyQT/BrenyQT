@@ -8,19 +8,3 @@
 
 </div>
 
-<div align="center">
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ll8qm19yi39fwcl768ue3ph44&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)]
-</div>
-
-## Statistics 
- 
-<div align="center">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrenyQT&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrenyQT&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrenyQT&theme=2077)
-
-</div>
